@@ -38,7 +38,7 @@ copy:
 # formal:
 #   icon: link || the description
 social:
-  fab fa-github: https://github.com/apollour|| Github
+  fab fa-github: https://github.com/apollour || Github
    # fas fa-envelope: mailto:apollou@163.com || Email
 
 # search (搜索)
@@ -95,7 +95,7 @@ avatar:
 index_img:
 
 # if the banner of page not setting, it will show the top_img
-  default_top_img: https://i.loli.net/2020/05/01/IuWi8QbHvzjlOPw.jpg
+default_top_img: https://i.loli.net/2020/05/01/IuWi8QbHvzjlOPw.jpg
 # default_top_img: /img/apollo.png
 
 # the banner image of archive page
